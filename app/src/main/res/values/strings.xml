@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Accessibility Poc</string>
+    <string name="initMessage">Bem vindo</string>
+    <string name="initAllyMessage">Bem vindo sou acessível</string>
 </resources>
